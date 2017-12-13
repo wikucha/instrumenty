@@ -1,6 +1,4 @@
 # Strona o mnie
-***
-***
 ## cos o mnie
   * lista
   * lista 2
