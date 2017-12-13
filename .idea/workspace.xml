@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0278d726-ac87-4b09-a20e-81b80f044762" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,12 +13,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitattributes">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="136">
+                <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -32,6 +45,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitattributes" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -135,6 +149,17 @@
         <state relative-caret-position="17">
           <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
